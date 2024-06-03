@@ -9,7 +9,9 @@
 - ✈️ Avid traveler
 - 🎨 Sketch artist
 - 🎵 Music fuels my coding sessions
--💡 Fun fact: Octopuses have three hearts and blue blood! 🐙
+- 💡 Fun fact: Octopuses have three hearts and blue blood! 🐙
+
+
 
 ## 📖Learning:
 - Everything about React, & TypeScript
