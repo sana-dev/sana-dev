@@ -1,7 +1,8 @@
 <img src=""/>
 <h1 align="center">Hello there 👋, I'm Sana Mehak</h1>
 <h3 align="center">frontend developer</h3>
-
+<img align="right" alt="coding" width="400" src="![image](https://github.com/sana-dev/sana-dev/assets/55602404/1119b36c-8f86-413d-9164-dbe3c876b489)
+">
 
 ## 😊 About me:
 - 🌐 Front End Developer
