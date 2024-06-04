@@ -45,7 +45,7 @@
 ![Adobe_Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-1d1f21?style=for-the-badge&logo=adobeillustrator)
 
 ## 📬 Reach me:
-
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sana-mehak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/sana-mehak/](https://www.linkedin.com/in/sana-mehak/)" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sana-mehak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sana-mehak/" height="30" width="40" /></a>
 </p>
+
