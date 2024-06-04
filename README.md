@@ -1,6 +1,5 @@
-<img src=""/>
-<h1 align="center">Hello there 👋, I'm Sana Mehak</h1>
-<h3 align="center">frontend developer</h3>
+<img src="https://github.com/sana-dev/sana-dev/blob/main/introo.gif"/>
+
 <img align="right" alt="coding" width="350" src="https://github.com/sana-dev/sana-dev/blob/main/programming%20gif.gif">
 
 ## 😊 About me:
