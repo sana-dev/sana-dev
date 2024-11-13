@@ -31,6 +31,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=for-the-badge&logo=javascript)
+![Golang](https://img.shields.io/badge/-Golang-1d1f21?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1d1f21?style=for-the-badge&logo=typescript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1d1f21?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 ![React](https://img.shields.io/badge/-React-1d1f21?style=for-the-badge&logo=react)
@@ -43,7 +44,8 @@
 ![Adobe InDesign](https://img.shields.io/badge/-Adobe_InDesign-1d1f21?style=for-the-badge&logo=adobeindesign)
 ![Adobe_Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-1d1f21?style=for-the-badge&logo=adobephotoshop)
 ![Adobe_Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-1d1f21?style=for-the-badge&logo=adobeillustrator)
-![Golang](https://img.shields.io/badge/-Golang-1d1f21?style=for-the-badge&logo=go&logoColor=00ADD8)
+![Liquid](https://img.shields.io/badge/-Liquid-1d1f21?style=for-the-badge&logo=liquid&logoColor=white)
+
 
 
 ## 📬 Reach me:
