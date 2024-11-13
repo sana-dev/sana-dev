@@ -43,6 +43,8 @@
 ![Adobe InDesign](https://img.shields.io/badge/-Adobe_InDesign-1d1f21?style=for-the-badge&logo=adobeindesign)
 ![Adobe_Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-1d1f21?style=for-the-badge&logo=adobephotoshop)
 ![Adobe_Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-1d1f21?style=for-the-badge&logo=adobeillustrator)
+![Golang](https://img.shields.io/badge/-Golang-1d1f21?style=for-the-badge&logo=go&logoColor=white)
+
 
 ## 📬 Reach me:
 <p align="left">
