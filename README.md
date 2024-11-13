@@ -44,7 +44,7 @@
 ![Adobe InDesign](https://img.shields.io/badge/-Adobe_InDesign-1d1f21?style=for-the-badge&logo=adobeindesign)
 ![Adobe_Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-1d1f21?style=for-the-badge&logo=adobephotoshop)
 ![Adobe_Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-1d1f21?style=for-the-badge&logo=adobeillustrator)
-![Liquid](https://raw.githubusercontent.com/episerver/liquid-templating-cms/main/opti-liquid-logo.png)
+![Liquid](https://img.shields.io/badge/-shopifyliquid-1d1f21?style=for-the-badge&logo=shopifyliquid)
 
 
 
